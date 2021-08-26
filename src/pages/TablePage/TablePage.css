@@ -1,0 +1,23 @@
+.tableWrapper{
+    padding: 40px 20px;
+    margin: 20px 40px;
+    height: 70vh;
+    width: 80vw;
+    border: solid 2px rgb(218, 218, 218);
+    border-radius: 10px;
+    box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    -webkit-box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    -moz-box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+}
+
+.tableTitle{
+    margin-top: -15px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    font-size: 15px;
+    border-radius: 7px;
+    color: #3963df;
+    font-weight: 400;
+    padding: 5px 10px;
+    background-color: rgb(243, 243, 243);
+}

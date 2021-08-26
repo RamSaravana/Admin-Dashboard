@@ -1,0 +1,57 @@
+.home{
+    flex: 8;
+}
+.dashboardTitle{
+    color: #555;
+    font-weight: 400;
+    font-size: 30px;
+    padding: 15px 25px;
+}
+
+.homeTitle{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.reportButton{
+    display: flex;
+    align-items: center;
+    color: rgb(236, 236, 236);
+    background-color: #3963df;
+    border: solid 2px white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.reportButton:hover{
+    color: #3963df;
+    background-color:  rgb(236, 236, 236);
+    border: solid 2px #3963df;
+}
+
+.homeChart1{
+    height: 65vh;
+    margin: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.homeChart2{
+    margin: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.attribution {
+    font-family: 'Inter', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 14px;
+    padding-top: 100px;
+    text-align-last: justify;
+}

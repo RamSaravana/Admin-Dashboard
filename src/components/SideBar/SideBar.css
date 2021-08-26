@@ -1,0 +1,73 @@
+.sidebar{
+    width: 190px;
+    height: calc(100vh - 50px);
+    background-color: #4E73DF;
+    position: sticky;
+    top: 50px;
+    z-index: 9;
+    border-right: solid 2px rgb(75, 143, 231);
+    box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    -webkit-box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    -moz-box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+}
+
+.linkStyle{
+    text-decoration-line: none;
+}
+
+.sidebarWrapper{
+    padding: 20px;
+    color: #555;
+}
+
+.sidebarMenu{
+    margin: 10px 0px;
+}
+
+.sidebarTitle{
+    font-size: 15px;
+    color: rgb(204, 195, 195);
+}
+
+.sidebarList{
+    list-style: none;
+    padding: 5px;
+    color:#DBE3F8;
+}
+
+.dashboard{
+    color: white;
+    background-color: #3963df;
+    border-color: white;
+    justify-content: center;
+    border:solid 2px;
+}
+
+.dashboard:hover,.workingPage:hover{
+    color: #3963df;
+    background-color: white;
+    border-color: #3963df;
+    border:solid 2px;
+}
+
+.workingPage{
+    color: white;
+    background-color: #3963df;
+    border-color: white;
+    border:solid 2px;
+    margin-bottom: 5px;
+}
+
+.sidebarListItem, .dashboard{
+    padding: 10px;
+    cursor: pointer;
+    display:flex;
+    align-items: center;
+    column-gap: 10px;
+    border-radius: 15px;
+}
+
+/* .sidebarListItem:hover{
+    color: white;
+    background-color: #3963df;
+} */

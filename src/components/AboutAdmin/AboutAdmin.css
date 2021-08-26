@@ -1,0 +1,33 @@
+.aboutWrapper{
+    align-self: flex-start;
+    flex:4;
+    margin: 0px 20px;
+    padding: 5px;
+    border-radius: 7px;
+    cursor: pointer;
+    box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    -webkit-box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    -moz-box-shadow: 1px 1px 44px 6px rgba(97,97,97,0.49);
+    width:inherit;
+}
+
+.aboutTitle{
+    font-weight: bolder;
+    font-size: 15px;
+    border-radius: 7px;
+    color: #3963df;
+    font-weight: 400;
+    padding: 5px 10px;
+    background-color: rgb(243, 243, 243);
+}
+
+img{
+    height: 25vmin;
+    align-self: center;
+}
+
+.aboutDetails{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: justify;
+}
