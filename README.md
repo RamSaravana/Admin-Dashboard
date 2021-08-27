@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# About Admin-World App
+
+"Admin World" is an application with features to view the Revenue information, Monthly expenses, Sales, Source of revenue, etc. for the growth of your company. this application is built using-React.js, React Router, Chart.js ,Material UI ,CSS flex,etc.
+
+Live Demo ==> https://admin-world.netlify.app/
+
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
