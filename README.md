@@ -1,8 +1,14 @@
 # About Admin-World App
 
-"Admin World" is an application with features to view the Revenue information, Monthly expenses, Sales, Source of revenue, etc. for the growth of your company. this application is built using-React.js, React Router, Chart.js ,Material UI ,CSS flex,etc.
+#### "Admin World" is an application with features to view the Revenue information, Monthly expenses, Sales, Source of revenue, etc. for the growth of your company. 
+This application is built using-
+-React.js,
+-React Router,
+-Chart.js,
+-Material UI,
+-CSS flex,etc.
 
-Live Demo ==> https://admin-world.netlify.app/
+### Live Demo ==> https://admin-world.netlify.app/
 
 
 ----------------------------------------------------------------------------------------------------
